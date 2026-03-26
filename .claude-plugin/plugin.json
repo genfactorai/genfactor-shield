@@ -1,0 +1,25 @@
+{
+  "name": "genfactor-shield",
+  "version": "1.0.0",
+  "description": "Security testing tools and resources for authorized pentesting, CTF competitions, and security research — by Genfactor",
+  "author": {
+    "name": "Genfactor",
+    "email": "noreply@genfactor.com"
+  },
+  "homepage": "https://github.com/genfactorai/genfactor-shield",
+  "repository": "https://github.com/genfactorai/genfactor-shield",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "pentesting",
+    "fuzzing",
+    "payloads",
+    "wordlists",
+    "ctf",
+    "bug-bounty",
+    "genfactor",
+    "shield"
+  ],
+  "commands": "./commands/",
+  "agents": "./agents/"
+}
