@@ -20,6 +20,6 @@
     "genfactor",
     "shield"
   ],
-  "commands": "./commands/",
+  "skills": "./skills/",
   "agents": "./agents/"
 }
