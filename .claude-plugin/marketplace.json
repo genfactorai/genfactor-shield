@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Security testing tools and resources for authorized pentesting, CTF competitions, and security research — by Genfactor",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -14,7 +14,7 @@
       "name": "shield-fuzzing",
       "source": "./seclists-categories fuzzing/fuzzing",
       "description": "Essential fuzzing payloads for SQL injection, command injection, and vulnerability testing",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "SecLists Community"
       },
@@ -28,7 +28,7 @@
       "name": "shield-passwords",
       "source": "./seclists-categories passwords/passwords",
       "description": "Curated password wordlists for authorized credential testing and password policy validation",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "SecLists Community"
       },
@@ -42,7 +42,7 @@
       "name": "shield-patterns",
       "source": "./seclists-categories pattern-matching/pattern-matching",
       "description": "Sensitive data patterns for API keys, credit cards, emails, and security testing",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "SecLists Community"
       },
@@ -56,7 +56,7 @@
       "name": "shield-payloads",
       "source": "./seclists-categories payloads/payloads",
       "description": "Specialized attack payloads for XSS, XXE, template injection, and file upload testing",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "SecLists Community"
       },
@@ -70,7 +70,7 @@
       "name": "shield-usernames",
       "source": "./seclists-categories usernames/usernames",
       "description": "Common username wordlists for enumeration and authorized security testing",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "SecLists Community"
       },
@@ -84,7 +84,7 @@
       "name": "shield-webshells",
       "source": "./seclists-categories web-shells/web-shells",
       "description": "Web shell samples for detection system validation and defensive security",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "SecLists Community"
       },
@@ -98,7 +98,7 @@
       "name": "shield-llm",
       "source": "./LLM_Testing",
       "description": "Comprehensive LLM security testing prompts for bias detection, data leakage, alignment testing, and adversarial prompt resistance",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Genfactor"
       },
